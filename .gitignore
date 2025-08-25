@@ -1,0 +1,6 @@
+UNSW_NB15_training-set.csv
+.env
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
