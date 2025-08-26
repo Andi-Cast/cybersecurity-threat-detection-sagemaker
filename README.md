@@ -45,7 +45,7 @@ The project covers the full ML lifecycle: data ingestion, preprocessing, model t
 ---
 
 ## 📂 Project Structure
-
+![Project Structure](AWS-cybersecurity-architecture.png)
 ---
 
 ## 📚 My Learnings & Contributions
